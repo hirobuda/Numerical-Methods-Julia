@@ -1,2 +1,2 @@
-# Numerical-Methods-for-Differential-Equations
-Some numerical solutions for ODEs/PDEs problems, mostly in Julia.
+# Numerical Methods in Julia
+Some numerical analysis and solutions to ODEs/PDEs(soon) in Julia.
